@@ -1,5 +1,5 @@
 import psycopg2
-import logger
+from . import logger
 
 logger = logger.ini_logger(__name__)
 
@@ -70,6 +70,7 @@ def create_tables(connection):
         logger.info("Table created")
 
     cursor.close()
+    return True
 
 
 def find_program(connection, program):

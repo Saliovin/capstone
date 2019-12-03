@@ -1,9 +1,9 @@
-import db_manager
+from . import db_manager
 import re
 import os
 import configparser
 import requests
-import logger
+from . import logger
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from getpass import getpass
@@ -19,8 +19,8 @@ def get_parser(link):
 
 def get_program_info(html_parser, util_link):
     downloads = []
-    string = html_parser.find(string=re.compile('v[0-9]*\.[0-9]*'))
-    search = re.search(re.compile('v[0-9]*\.[0-9]*'), string)
+    string = html_parser.find(string=re.compile(r'v[0-9]*\.[0-9]*'))
+    search = re.search(re.compile(r'v[0-9]*\.[0-9]*'), string)
     version = search.group(0)
     name = string[:search.start()]
 
@@ -95,6 +95,7 @@ def main():
                                            config['username'],
                                            config['hostname'],
                                            password)
+
     for file in download_list:
         file_path = download_file(file['link'], file['version'])
 
