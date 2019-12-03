@@ -1,0 +1,483 @@
+2019-11-27 14:10:36,469 - INFO - Connecting to postgres database
+2019-11-27 14:10:36,470 - INFO - Connected to postgres database
+2019-11-27 14:10:36,577 - INFO - Checking for existing database
+2019-11-27 14:10:36,594 - INFO - Database exists
+2019-11-27 14:10:36,595 - INFO - Connecting to programs database
+2019-11-27 14:10:36,596 - INFO - Connected to programs database
+2019-11-27 14:10:36,624 - INFO - Checking for existing table
+2019-11-27 14:10:36,627 - INFO - Table missing, creating new one
+2019-11-27 14:10:36,635 - INFO - Table created
+2019-11-27 14:10:36,635 - INFO - Writing to database
+2019-11-27 14:11:30,152 - INFO - Connecting to postgres database
+2019-11-27 14:11:30,152 - INFO - Connected to postgres database
+2019-11-27 14:11:30,202 - INFO - Checking for existing database
+2019-11-27 14:11:30,203 - INFO - Database exists
+2019-11-27 14:11:30,204 - INFO - Connecting to programs database
+2019-11-27 14:11:30,204 - INFO - Connected to programs database
+2019-11-27 14:11:30,219 - INFO - Checking for existing table
+2019-11-27 14:11:30,220 - INFO - Table found
+2019-11-27 14:11:30,220 - INFO - Writing to database
+2019-11-27 14:11:32,543 - INFO - Connecting to postgres database
+2019-11-27 14:11:32,543 - INFO - Connected to postgres database
+2019-11-27 14:11:32,548 - INFO - Checking for existing database
+2019-11-27 14:11:32,549 - INFO - Database exists
+2019-11-27 14:11:32,550 - INFO - Connecting to programs database
+2019-11-27 14:11:32,550 - INFO - Connected to programs database
+2019-11-27 14:11:32,590 - INFO - Checking for existing table
+2019-11-27 14:11:32,591 - INFO - Table found
+2019-11-27 14:11:32,591 - INFO - Writing to database
+2019-11-27 14:11:33,568 - INFO - Connecting to postgres database
+2019-11-27 14:11:33,568 - INFO - Connected to postgres database
+2019-11-27 14:11:33,583 - INFO - Checking for existing database
+2019-11-27 14:11:33,584 - INFO - Database exists
+2019-11-27 14:11:33,584 - INFO - Connecting to programs database
+2019-11-27 14:11:33,585 - INFO - Connected to programs database
+2019-11-27 14:11:33,591 - INFO - Checking for existing table
+2019-11-27 14:11:33,592 - INFO - Table found
+2019-11-27 14:11:33,592 - INFO - Writing to database
+2019-11-27 14:11:34,543 - INFO - Connecting to postgres database
+2019-11-27 14:11:34,543 - INFO - Connected to postgres database
+2019-11-27 14:11:34,558 - INFO - Checking for existing database
+2019-11-27 14:11:34,559 - INFO - Database exists
+2019-11-27 14:11:34,559 - INFO - Connecting to programs database
+2019-11-27 14:11:34,560 - INFO - Connected to programs database
+2019-11-27 14:11:34,611 - INFO - Checking for existing table
+2019-11-27 14:11:34,613 - INFO - Table found
+2019-11-27 14:11:34,613 - INFO - Writing to database
+2019-11-27 14:11:35,535 - INFO - Connecting to postgres database
+2019-11-27 14:11:35,535 - INFO - Connected to postgres database
+2019-11-27 14:11:35,551 - INFO - Checking for existing database
+2019-11-27 14:11:35,553 - INFO - Database exists
+2019-11-27 14:11:35,553 - INFO - Connecting to programs database
+2019-11-27 14:11:35,553 - INFO - Connected to programs database
+2019-11-27 14:11:35,567 - INFO - Checking for existing table
+2019-11-27 14:11:35,569 - INFO - Table found
+2019-11-27 14:11:35,569 - INFO - Writing to database
+2019-11-27 14:11:36,465 - INFO - Connecting to postgres database
+2019-11-27 14:11:36,465 - INFO - Connected to postgres database
+2019-11-27 14:11:36,482 - INFO - Checking for existing database
+2019-11-27 14:11:36,484 - INFO - Database exists
+2019-11-27 14:11:36,484 - INFO - Connecting to programs database
+2019-11-27 14:11:36,484 - INFO - Connected to programs database
+2019-11-27 14:11:36,501 - INFO - Checking for existing table
+2019-11-27 14:11:36,503 - INFO - Table found
+2019-11-27 14:11:36,503 - INFO - Writing to database
+2019-11-27 14:11:37,673 - INFO - Connecting to postgres database
+2019-11-27 14:11:37,673 - INFO - Connected to postgres database
+2019-11-27 14:11:37,689 - INFO - Checking for existing database
+2019-11-27 14:11:37,690 - INFO - Database exists
+2019-11-27 14:11:37,691 - INFO - Connecting to programs database
+2019-11-27 14:11:37,691 - INFO - Connected to programs database
+2019-11-27 14:11:37,697 - INFO - Checking for existing table
+2019-11-27 14:11:37,699 - INFO - Table found
+2019-11-27 14:11:37,699 - INFO - Writing to database
+2019-11-27 14:11:38,591 - INFO - Connecting to postgres database
+2019-11-27 14:11:38,591 - INFO - Connected to postgres database
+2019-11-27 14:11:38,607 - INFO - Checking for existing database
+2019-11-27 14:11:38,609 - INFO - Database exists
+2019-11-27 14:11:38,609 - INFO - Connecting to programs database
+2019-11-27 14:11:38,609 - INFO - Connected to programs database
+2019-11-27 14:11:38,624 - INFO - Checking for existing table
+2019-11-27 14:11:38,625 - INFO - Table found
+2019-11-27 14:11:38,625 - INFO - Writing to database
+2019-11-27 14:11:39,528 - INFO - Connecting to postgres database
+2019-11-27 14:11:39,528 - INFO - Connected to postgres database
+2019-11-27 14:11:39,535 - INFO - Checking for existing database
+2019-11-27 14:11:39,536 - INFO - Database exists
+2019-11-27 14:11:39,537 - INFO - Connecting to programs database
+2019-11-27 14:11:39,537 - INFO - Connected to programs database
+2019-11-27 14:11:39,546 - INFO - Checking for existing table
+2019-11-27 14:11:39,548 - INFO - Table found
+2019-11-27 14:11:39,548 - INFO - Writing to database
+2019-11-27 14:11:40,726 - INFO - Connecting to postgres database
+2019-11-27 14:11:40,726 - INFO - Connected to postgres database
+2019-11-27 14:11:40,742 - INFO - Checking for existing database
+2019-11-27 14:11:40,744 - INFO - Database exists
+2019-11-27 14:11:40,745 - INFO - Connecting to programs database
+2019-11-27 14:11:40,745 - INFO - Connected to programs database
+2019-11-27 14:11:40,761 - INFO - Checking for existing table
+2019-11-27 14:11:40,763 - INFO - Table found
+2019-11-27 14:11:40,763 - INFO - Writing to database
+2019-11-27 14:11:41,689 - INFO - Connecting to postgres database
+2019-11-27 14:11:41,689 - INFO - Connected to postgres database
+2019-11-27 14:11:41,706 - INFO - Checking for existing database
+2019-11-27 14:11:41,708 - INFO - Database exists
+2019-11-27 14:11:41,709 - INFO - Connecting to programs database
+2019-11-27 14:11:41,709 - INFO - Connected to programs database
+2019-11-27 14:11:41,725 - INFO - Checking for existing table
+2019-11-27 14:11:41,727 - INFO - Table found
+2019-11-27 14:11:41,727 - INFO - Writing to database
+2019-11-27 14:11:43,214 - INFO - Connecting to postgres database
+2019-11-27 14:11:43,215 - INFO - Connected to postgres database
+2019-11-27 14:11:43,229 - INFO - Checking for existing database
+2019-11-27 14:11:43,231 - INFO - Database exists
+2019-11-27 14:11:43,231 - INFO - Connecting to programs database
+2019-11-27 14:11:43,232 - INFO - Connected to programs database
+2019-11-27 14:11:43,237 - INFO - Checking for existing table
+2019-11-27 14:11:43,239 - INFO - Table found
+2019-11-27 14:11:43,239 - INFO - Writing to database
+2019-11-27 14:11:45,829 - INFO - Connecting to postgres database
+2019-11-27 14:11:45,830 - INFO - Connected to postgres database
+2019-11-27 14:11:45,844 - INFO - Checking for existing database
+2019-11-27 14:11:45,846 - INFO - Database exists
+2019-11-27 14:11:45,846 - INFO - Connecting to programs database
+2019-11-27 14:11:45,846 - INFO - Connected to programs database
+2019-11-27 14:11:45,861 - INFO - Checking for existing table
+2019-11-27 14:11:45,862 - INFO - Table found
+2019-11-27 14:11:45,862 - INFO - Writing to database
+2019-11-27 14:11:46,852 - INFO - Connecting to postgres database
+2019-11-27 14:11:46,852 - INFO - Connected to postgres database
+2019-11-27 14:11:46,869 - INFO - Checking for existing database
+2019-11-27 14:11:46,871 - INFO - Database exists
+2019-11-27 14:11:46,872 - INFO - Connecting to programs database
+2019-11-27 14:11:46,872 - INFO - Connected to programs database
+2019-11-27 14:11:46,881 - INFO - Checking for existing table
+2019-11-27 14:11:46,883 - INFO - Table found
+2019-11-27 14:11:46,883 - INFO - Writing to database
+2019-11-27 14:11:47,865 - INFO - Connecting to postgres database
+2019-11-27 14:11:47,865 - INFO - Connected to postgres database
+2019-11-27 14:11:47,880 - INFO - Checking for existing database
+2019-11-27 14:11:47,882 - INFO - Database exists
+2019-11-27 14:11:47,882 - INFO - Connecting to programs database
+2019-11-27 14:11:47,882 - INFO - Connected to programs database
+2019-11-27 14:11:47,897 - INFO - Checking for existing table
+2019-11-27 14:11:47,899 - INFO - Table found
+2019-11-27 14:11:47,899 - INFO - Writing to database
+2019-11-27 14:11:49,146 - INFO - Connecting to postgres database
+2019-11-27 14:11:49,146 - INFO - Connected to postgres database
+2019-11-27 14:11:49,155 - INFO - Checking for existing database
+2019-11-27 14:11:49,159 - INFO - Database exists
+2019-11-27 14:11:49,160 - INFO - Connecting to programs database
+2019-11-27 14:11:49,160 - INFO - Connected to programs database
+2019-11-27 14:11:49,168 - INFO - Checking for existing table
+2019-11-27 14:11:49,169 - INFO - Table found
+2019-11-27 14:11:49,169 - INFO - Writing to database
+2019-11-27 14:11:50,437 - INFO - Connecting to postgres database
+2019-11-27 14:11:50,437 - INFO - Connected to postgres database
+2019-11-27 14:11:50,452 - INFO - Checking for existing database
+2019-11-27 14:11:50,453 - INFO - Database exists
+2019-11-27 14:11:50,453 - INFO - Connecting to programs database
+2019-11-27 14:11:50,454 - INFO - Connected to programs database
+2019-11-27 14:11:50,479 - INFO - Checking for existing table
+2019-11-27 14:11:50,481 - INFO - Table found
+2019-11-27 14:11:50,481 - INFO - Writing to database
+2019-11-27 14:11:51,443 - INFO - Connecting to postgres database
+2019-11-27 14:11:51,443 - INFO - Connected to postgres database
+2019-11-27 14:11:51,457 - INFO - Checking for existing database
+2019-11-27 14:11:51,459 - INFO - Database exists
+2019-11-27 14:11:51,459 - INFO - Connecting to programs database
+2019-11-27 14:11:51,459 - INFO - Connected to programs database
+2019-11-27 14:11:51,468 - INFO - Checking for existing table
+2019-11-27 14:11:51,472 - INFO - Table found
+2019-11-27 14:11:51,472 - INFO - Writing to database
+2019-11-27 14:11:53,015 - INFO - Connecting to postgres database
+2019-11-27 14:11:53,015 - INFO - Connected to postgres database
+2019-11-27 14:11:53,029 - INFO - Checking for existing database
+2019-11-27 14:11:53,031 - INFO - Database exists
+2019-11-27 14:11:53,031 - INFO - Connecting to programs database
+2019-11-27 14:11:53,031 - INFO - Connected to programs database
+2019-11-27 14:11:53,046 - INFO - Checking for existing table
+2019-11-27 14:11:53,047 - INFO - Table found
+2019-11-27 14:11:53,048 - INFO - Writing to database
+2019-11-27 14:11:54,325 - INFO - Connecting to postgres database
+2019-11-27 14:11:54,326 - INFO - Connected to postgres database
+2019-11-27 14:11:54,340 - INFO - Checking for existing database
+2019-11-27 14:11:54,342 - INFO - Database exists
+2019-11-27 14:11:54,342 - INFO - Connecting to programs database
+2019-11-27 14:11:54,342 - INFO - Connected to programs database
+2019-11-27 14:11:54,356 - INFO - Checking for existing table
+2019-11-27 14:11:54,357 - INFO - Table found
+2019-11-27 14:11:54,357 - INFO - Writing to database
+2019-11-27 14:11:55,322 - INFO - Connecting to postgres database
+2019-11-27 14:11:55,323 - INFO - Connected to postgres database
+2019-11-27 14:11:55,339 - INFO - Checking for existing database
+2019-11-27 14:11:55,342 - INFO - Database exists
+2019-11-27 14:11:55,342 - INFO - Connecting to programs database
+2019-11-27 14:11:55,342 - INFO - Connected to programs database
+2019-11-27 14:11:55,358 - INFO - Checking for existing table
+2019-11-27 14:11:55,360 - INFO - Table found
+2019-11-27 14:11:55,361 - INFO - Writing to database
+2019-11-27 14:11:55,993 - INFO - Connecting to postgres database
+2019-11-27 14:11:55,993 - INFO - Connected to postgres database
+2019-11-27 14:11:56,009 - INFO - Checking for existing database
+2019-11-27 14:11:56,011 - INFO - Database exists
+2019-11-27 14:11:56,011 - INFO - Connecting to programs database
+2019-11-27 14:11:56,011 - INFO - Connected to programs database
+2019-11-27 14:11:56,025 - INFO - Checking for existing table
+2019-11-27 14:11:56,027 - INFO - Table found
+2019-11-27 14:11:56,027 - INFO - Writing to database
+2019-11-27 14:11:56,977 - INFO - Connecting to postgres database
+2019-11-27 14:11:56,977 - INFO - Connected to postgres database
+2019-11-27 14:11:56,993 - INFO - Checking for existing database
+2019-11-27 14:11:56,995 - INFO - Database exists
+2019-11-27 14:11:56,995 - INFO - Connecting to programs database
+2019-11-27 14:11:56,996 - INFO - Connected to programs database
+2019-11-27 14:11:57,047 - INFO - Checking for existing table
+2019-11-27 14:11:57,049 - INFO - Table found
+2019-11-27 14:11:57,049 - INFO - Writing to database
+2019-11-27 14:11:58,336 - INFO - Connecting to postgres database
+2019-11-27 14:11:58,336 - INFO - Connected to postgres database
+2019-11-27 14:11:58,351 - INFO - Checking for existing database
+2019-11-27 14:11:58,352 - INFO - Database exists
+2019-11-27 14:11:58,353 - INFO - Connecting to programs database
+2019-11-27 14:11:58,353 - INFO - Connected to programs database
+2019-11-27 14:11:58,368 - INFO - Checking for existing table
+2019-11-27 14:11:58,370 - INFO - Table found
+2019-11-27 14:11:58,370 - INFO - Writing to database
+2019-11-27 14:11:59,296 - INFO - Connecting to postgres database
+2019-11-27 14:11:59,296 - INFO - Connected to postgres database
+2019-11-27 14:11:59,312 - INFO - Checking for existing database
+2019-11-27 14:11:59,314 - INFO - Database exists
+2019-11-27 14:11:59,314 - INFO - Connecting to programs database
+2019-11-27 14:11:59,314 - INFO - Connected to programs database
+2019-11-27 14:11:59,329 - INFO - Checking for existing table
+2019-11-27 14:11:59,331 - INFO - Table found
+2019-11-27 14:11:59,331 - INFO - Writing to database
+2019-11-27 14:30:35,369 - INFO - Connecting to postgres database
+2019-11-27 14:30:35,370 - INFO - Connected to postgres database
+2019-11-27 14:30:35,379 - INFO - Checking for existing database
+2019-11-27 14:30:35,380 - INFO - Database exists
+2019-11-27 14:30:35,380 - INFO - Connecting to programs database
+2019-11-27 14:30:35,381 - INFO - Connected to programs database
+2019-11-27 14:30:35,396 - INFO - Checking for existing table
+2019-11-27 14:30:35,398 - INFO - Table found
+2019-11-27 14:30:35,398 - INFO - Writing to database
+2019-11-27 14:30:36,624 - INFO - Connecting to postgres database
+2019-11-27 14:30:36,625 - INFO - Connected to postgres database
+2019-11-27 14:30:36,639 - INFO - Checking for existing database
+2019-11-27 14:30:36,640 - INFO - Database exists
+2019-11-27 14:30:36,640 - INFO - Connecting to programs database
+2019-11-27 14:30:36,640 - INFO - Connected to programs database
+2019-11-27 14:30:36,656 - INFO - Checking for existing table
+2019-11-27 14:30:36,658 - INFO - Table found
+2019-11-27 14:30:36,658 - INFO - Writing to database
+2019-11-27 14:30:37,558 - INFO - Connecting to postgres database
+2019-11-27 14:30:37,558 - INFO - Connected to postgres database
+2019-11-27 14:30:37,581 - INFO - Checking for existing database
+2019-11-27 14:30:37,583 - INFO - Database exists
+2019-11-27 14:30:37,583 - INFO - Connecting to programs database
+2019-11-27 14:30:37,583 - INFO - Connected to programs database
+2019-11-27 14:30:37,599 - INFO - Checking for existing table
+2019-11-27 14:30:37,600 - INFO - Table found
+2019-11-27 14:30:37,600 - INFO - Writing to database
+2019-11-27 14:30:38,699 - INFO - Connecting to postgres database
+2019-11-27 14:30:38,700 - INFO - Connected to postgres database
+2019-11-27 14:30:38,715 - INFO - Checking for existing database
+2019-11-27 14:30:38,718 - INFO - Database exists
+2019-11-27 14:30:38,718 - INFO - Connecting to programs database
+2019-11-27 14:30:38,718 - INFO - Connected to programs database
+2019-11-27 14:30:38,734 - INFO - Checking for existing table
+2019-11-27 14:30:38,736 - INFO - Table found
+2019-11-27 14:30:38,736 - INFO - Writing to database
+2019-11-27 14:30:39,787 - INFO - Connecting to postgres database
+2019-11-27 14:30:39,788 - INFO - Connected to postgres database
+2019-11-27 14:30:39,804 - INFO - Checking for existing database
+2019-11-27 14:30:39,806 - INFO - Database exists
+2019-11-27 14:30:39,806 - INFO - Connecting to programs database
+2019-11-27 14:30:39,806 - INFO - Connected to programs database
+2019-11-27 14:30:39,821 - INFO - Checking for existing table
+2019-11-27 14:30:39,822 - INFO - Table found
+2019-11-27 14:30:39,822 - INFO - Writing to database
+2019-11-27 14:30:40,863 - INFO - Connecting to postgres database
+2019-11-27 14:30:40,864 - INFO - Connected to postgres database
+2019-11-27 14:30:40,880 - INFO - Checking for existing database
+2019-11-27 14:30:40,882 - INFO - Database exists
+2019-11-27 14:30:40,882 - INFO - Connecting to programs database
+2019-11-27 14:30:40,882 - INFO - Connected to programs database
+2019-11-27 14:30:40,897 - INFO - Checking for existing table
+2019-11-27 14:30:40,898 - INFO - Table found
+2019-11-27 14:30:40,899 - INFO - Writing to database
+2019-11-27 14:30:42,254 - INFO - Connecting to postgres database
+2019-11-27 14:30:42,255 - INFO - Connected to postgres database
+2019-11-27 14:30:42,271 - INFO - Checking for existing database
+2019-11-27 14:30:42,272 - INFO - Database exists
+2019-11-27 14:30:42,273 - INFO - Connecting to programs database
+2019-11-27 14:30:42,273 - INFO - Connected to programs database
+2019-11-27 14:30:42,288 - INFO - Checking for existing table
+2019-11-27 14:30:42,290 - INFO - Table found
+2019-11-27 14:30:42,290 - INFO - Writing to database
+2019-11-27 14:30:43,382 - INFO - Connecting to postgres database
+2019-11-27 14:30:43,382 - INFO - Connected to postgres database
+2019-11-27 14:30:43,398 - INFO - Checking for existing database
+2019-11-27 14:30:43,400 - INFO - Database exists
+2019-11-27 14:30:43,400 - INFO - Connecting to programs database
+2019-11-27 14:30:43,401 - INFO - Connected to programs database
+2019-11-27 14:30:43,407 - INFO - Checking for existing table
+2019-11-27 14:30:43,409 - INFO - Table found
+2019-11-27 14:30:43,409 - INFO - Writing to database
+2019-11-27 14:30:44,589 - INFO - Connecting to postgres database
+2019-11-27 14:30:44,589 - INFO - Connected to postgres database
+2019-11-27 14:30:44,604 - INFO - Checking for existing database
+2019-11-27 14:30:44,606 - INFO - Database exists
+2019-11-27 14:30:44,607 - INFO - Connecting to programs database
+2019-11-27 14:30:44,607 - INFO - Connected to programs database
+2019-11-27 14:30:44,622 - INFO - Checking for existing table
+2019-11-27 14:30:44,623 - INFO - Table found
+2019-11-27 14:30:44,623 - INFO - Writing to database
+2019-11-27 14:30:46,108 - INFO - Connecting to postgres database
+2019-11-27 14:30:46,109 - INFO - Connected to postgres database
+2019-11-27 14:30:46,123 - INFO - Checking for existing database
+2019-11-27 14:30:46,124 - INFO - Database exists
+2019-11-27 14:30:46,125 - INFO - Connecting to programs database
+2019-11-27 14:30:46,125 - INFO - Connected to programs database
+2019-11-27 14:30:46,140 - INFO - Checking for existing table
+2019-11-27 14:30:46,142 - INFO - Table found
+2019-11-27 14:30:46,142 - INFO - Writing to database
+2019-11-27 14:30:47,393 - INFO - Connecting to postgres database
+2019-11-27 14:30:47,393 - INFO - Connected to postgres database
+2019-11-27 14:30:47,408 - INFO - Checking for existing database
+2019-11-27 14:30:47,409 - INFO - Database exists
+2019-11-27 14:30:47,410 - INFO - Connecting to programs database
+2019-11-27 14:30:47,410 - INFO - Connected to programs database
+2019-11-27 14:30:47,415 - INFO - Checking for existing table
+2019-11-27 14:30:47,417 - INFO - Table found
+2019-11-27 14:30:47,417 - INFO - Writing to database
+2019-11-27 14:30:48,967 - INFO - Connecting to postgres database
+2019-11-27 14:30:48,968 - INFO - Connected to postgres database
+2019-11-27 14:30:48,982 - INFO - Checking for existing database
+2019-11-27 14:30:48,983 - INFO - Database exists
+2019-11-27 14:30:48,984 - INFO - Connecting to programs database
+2019-11-27 14:30:48,984 - INFO - Connected to programs database
+2019-11-27 14:30:48,999 - INFO - Checking for existing table
+2019-11-27 14:30:49,000 - INFO - Table found
+2019-11-27 14:30:49,001 - INFO - Writing to database
+2019-11-27 14:30:50,463 - INFO - Connecting to postgres database
+2019-11-27 14:30:50,463 - INFO - Connected to postgres database
+2019-11-27 14:30:50,479 - INFO - Checking for existing database
+2019-11-27 14:30:50,480 - INFO - Database exists
+2019-11-27 14:30:50,481 - INFO - Connecting to programs database
+2019-11-27 14:30:50,481 - INFO - Connected to programs database
+2019-11-27 14:30:50,487 - INFO - Checking for existing table
+2019-11-27 14:30:50,489 - INFO - Table found
+2019-11-27 14:30:50,489 - INFO - Writing to database
+2019-11-27 14:30:51,632 - INFO - Connecting to postgres database
+2019-11-27 14:30:51,633 - INFO - Connected to postgres database
+2019-11-27 14:30:51,650 - INFO - Checking for existing database
+2019-11-27 14:30:51,652 - INFO - Database exists
+2019-11-27 14:30:51,652 - INFO - Connecting to programs database
+2019-11-27 14:30:51,652 - INFO - Connected to programs database
+2019-11-27 14:30:51,667 - INFO - Checking for existing table
+2019-11-27 14:30:51,669 - INFO - Table found
+2019-11-27 14:30:51,669 - INFO - Writing to database
+2019-11-27 14:30:52,831 - INFO - Connecting to postgres database
+2019-11-27 14:30:52,831 - INFO - Connected to postgres database
+2019-11-27 14:30:52,846 - INFO - Checking for existing database
+2019-11-27 14:30:52,848 - INFO - Database exists
+2019-11-27 14:30:52,849 - INFO - Connecting to programs database
+2019-11-27 14:30:52,849 - INFO - Connected to programs database
+2019-11-27 14:30:52,856 - INFO - Checking for existing table
+2019-11-27 14:30:52,857 - INFO - Table found
+2019-11-27 14:30:52,857 - INFO - Writing to database
+2019-11-27 14:30:54,324 - INFO - Connecting to postgres database
+2019-11-27 14:30:54,324 - INFO - Connected to postgres database
+2019-11-27 14:30:54,338 - INFO - Checking for existing database
+2019-11-27 14:30:54,340 - INFO - Database exists
+2019-11-27 14:30:54,340 - INFO - Connecting to programs database
+2019-11-27 14:30:54,340 - INFO - Connected to programs database
+2019-11-27 14:30:54,355 - INFO - Checking for existing table
+2019-11-27 14:30:54,357 - INFO - Table found
+2019-11-27 14:30:54,357 - INFO - Writing to database
+2019-11-27 14:30:55,523 - INFO - Connecting to postgres database
+2019-11-27 14:30:55,524 - INFO - Connected to postgres database
+2019-11-27 14:30:55,562 - INFO - Checking for existing database
+2019-11-27 14:30:55,564 - INFO - Database exists
+2019-11-27 14:30:55,564 - INFO - Connecting to programs database
+2019-11-27 14:30:55,564 - INFO - Connected to programs database
+2019-11-27 14:30:55,578 - INFO - Checking for existing table
+2019-11-27 14:30:55,579 - INFO - Table found
+2019-11-27 14:30:55,579 - INFO - Writing to database
+2019-11-27 14:30:56,744 - INFO - Connecting to postgres database
+2019-11-27 14:30:56,745 - INFO - Connected to postgres database
+2019-11-27 14:30:56,760 - INFO - Checking for existing database
+2019-11-27 14:30:56,761 - INFO - Database exists
+2019-11-27 14:30:56,761 - INFO - Connecting to programs database
+2019-11-27 14:30:56,762 - INFO - Connected to programs database
+2019-11-27 14:30:56,767 - INFO - Checking for existing table
+2019-11-27 14:30:56,769 - INFO - Table found
+2019-11-27 14:30:56,769 - INFO - Writing to database
+2019-11-27 14:30:58,506 - INFO - Connecting to postgres database
+2019-11-27 14:30:58,507 - INFO - Connected to postgres database
+2019-11-27 14:30:58,520 - INFO - Checking for existing database
+2019-11-27 14:30:58,522 - INFO - Database exists
+2019-11-27 14:30:58,522 - INFO - Connecting to programs database
+2019-11-27 14:30:58,522 - INFO - Connected to programs database
+2019-11-27 14:30:58,537 - INFO - Checking for existing table
+2019-11-27 14:30:58,539 - INFO - Table found
+2019-11-27 14:30:58,539 - INFO - Writing to database
+2019-11-27 14:30:59,966 - INFO - Connecting to postgres database
+2019-11-27 14:30:59,966 - INFO - Connected to postgres database
+2019-11-27 14:30:59,980 - INFO - Checking for existing database
+2019-11-27 14:30:59,982 - INFO - Database exists
+2019-11-27 14:30:59,982 - INFO - Connecting to programs database
+2019-11-27 14:30:59,982 - INFO - Connected to programs database
+2019-11-27 14:30:59,997 - INFO - Checking for existing table
+2019-11-27 14:30:59,998 - INFO - Table found
+2019-11-27 14:30:59,998 - INFO - Writing to database
+2019-11-27 14:31:01,137 - INFO - Connecting to postgres database
+2019-11-27 14:31:01,137 - INFO - Connected to postgres database
+2019-11-27 14:31:01,152 - INFO - Checking for existing database
+2019-11-27 14:31:01,154 - INFO - Database exists
+2019-11-27 14:31:01,154 - INFO - Connecting to programs database
+2019-11-27 14:31:01,154 - INFO - Connected to programs database
+2019-11-27 14:31:01,168 - INFO - Checking for existing table
+2019-11-27 14:31:01,169 - INFO - Table found
+2019-11-27 14:31:01,169 - INFO - Writing to database
+2019-11-27 14:31:02,103 - INFO - Connecting to postgres database
+2019-11-27 14:31:02,104 - INFO - Connected to postgres database
+2019-11-27 14:31:02,120 - INFO - Checking for existing database
+2019-11-27 14:31:02,122 - INFO - Database exists
+2019-11-27 14:31:02,122 - INFO - Connecting to programs database
+2019-11-27 14:31:02,122 - INFO - Connected to programs database
+2019-11-27 14:31:02,138 - INFO - Checking for existing table
+2019-11-27 14:31:02,140 - INFO - Table found
+2019-11-27 14:31:02,140 - INFO - Writing to database
+2019-11-27 14:31:03,302 - INFO - Connecting to postgres database
+2019-11-27 14:31:03,302 - INFO - Connected to postgres database
+2019-11-27 14:31:03,317 - INFO - Checking for existing database
+2019-11-27 14:31:03,319 - INFO - Database exists
+2019-11-27 14:31:03,320 - INFO - Connecting to programs database
+2019-11-27 14:31:03,320 - INFO - Connected to programs database
+2019-11-27 14:31:03,334 - INFO - Checking for existing table
+2019-11-27 14:31:03,335 - INFO - Table found
+2019-11-27 14:31:03,335 - INFO - Writing to database
+2019-11-27 14:31:04,753 - INFO - Connecting to postgres database
+2019-11-27 14:31:04,753 - INFO - Connected to postgres database
+2019-11-27 14:31:04,767 - INFO - Checking for existing database
+2019-11-27 14:31:04,769 - INFO - Database exists
+2019-11-27 14:31:04,769 - INFO - Connecting to programs database
+2019-11-27 14:31:04,770 - INFO - Connected to programs database
+2019-11-27 14:31:04,775 - INFO - Checking for existing table
+2019-11-27 14:31:04,776 - INFO - Table found
+2019-11-27 14:31:04,777 - INFO - Writing to database
+2019-11-27 14:31:05,713 - INFO - Connecting to postgres database
+2019-11-27 14:31:05,713 - INFO - Connected to postgres database
+2019-11-27 14:31:05,729 - INFO - Checking for existing database
+2019-11-27 14:31:05,731 - INFO - Database exists
+2019-11-27 14:31:05,731 - INFO - Connecting to programs database
+2019-11-27 14:31:05,732 - INFO - Connected to programs database
+2019-11-27 14:31:05,746 - INFO - Checking for existing table
+2019-11-27 14:31:05,747 - INFO - Table found
+2019-11-27 14:31:05,747 - INFO - Writing to database
+2019-11-27 16:45:59,850 - INFO - Connecting to postgres database
+2019-11-27 16:45:59,850 - INFO - Connected to postgres database
+2019-11-27 16:46:02,451 - ERROR - Error while connecting to PostgreSQL: FATAL:  password authentication failed for user "postgres"
+
+2019-11-28 09:48:56,001 - INFO - Connecting to postgres database
+2019-11-28 09:49:02,850 - ERROR - Error while connecting to PostgreSQL: could not translate host name "pg-docker" to address: Unknown host
+
+2019-11-28 11:49:17,087 - INFO - Connecting to programs database
+2019-11-28 11:49:23,868 - ERROR - Error while connecting to PostgreSQL: could not translate host name "pg-docker" to address: Unknown host
+
+2019-11-30 16:57:00,988 - INFO - Connecting to postgres database
+2019-12-01 17:49:02,392 - INFO - Connecting to postgres database
+2019-12-01 17:49:09,171 - ERROR - Error while connecting to PostgreSQL: could not translate host name "pg-docker" to address: Unknown host
+
+2019-12-01 17:49:53,137 - INFO - Connecting to postgres database
+2019-12-01 17:49:54,835 - ERROR - Error while connecting to PostgreSQL: FATAL:  password authentication failed for user "postgres"
+
+2019-12-01 17:53:17,992 - INFO - Connecting to postgres database
+2019-12-01 17:53:18,052 - ERROR - Error while connecting to PostgreSQL: FATAL:  password authentication failed for user "postgres"
+
+2019-12-01 17:53:59,579 - INFO - Connecting to postgres database
+2019-12-01 17:54:06,357 - ERROR - Error while connecting to PostgreSQL: could not translate host name "pg-docker" to address: Unknown host
+
