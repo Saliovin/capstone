@@ -1,5 +1,5 @@
 FROM python:3.7
-RUN mkdir ./downloads
+RUN mkdir "./downloads"
 COPY . /app
 WORKDIR /app
 RUN pip install pipenv
