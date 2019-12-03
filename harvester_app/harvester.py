@@ -19,8 +19,8 @@ def get_parser(link):
 
 def get_program_info(html_parser, util_link):
     downloads = []
-    string = html_parser.find(string=re.compile('v[0-9]*\.[0-9]*'))
-    search = re.search(re.compile('v[0-9]*\.[0-9]*'), string)
+    string = html_parser.find(string=re.compile(r'v[0-9]*\.[0-9]*'))
+    search = re.search(re.compile(r'v[0-9]*\.[0-9]*'), string)
     version = search.group(0)
     name = string[:search.start()]
 
