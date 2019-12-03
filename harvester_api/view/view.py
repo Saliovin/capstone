@@ -1,5 +1,6 @@
 import hashlib
 import os
+import shutil
 from flask import request, json, Response, Blueprint
 from model.model import FileModel, FileSchema
 from werkzeug.utils import secure_filename
@@ -31,7 +32,7 @@ def create():
         return custom_response({'Error': 'File uploaded is a duplicate'}, 400)
 
     path = os.path.join(f'{os.path.realpath(".")}{os.sep}downloads', filename)
-    os.rename(temp_path, path)
+    shutil.move(temp_path, path)
     data = file_schema.load(req_data)
     file = FileModel(data)
     file.save()
