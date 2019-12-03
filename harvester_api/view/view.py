@@ -30,8 +30,8 @@ def create():
         os.remove(temp_path)
         return custom_response({'Error': 'File uploaded is a duplicate'}, 400)
 
-    path = os.path.join(f'{os.path.realpath(".")}{os.sep}downloads')
-    os.rename(temp_path, path, filename)
+    path = os.path.join(f'{os.path.realpath(".")}{os.sep}downloads', filename)
+    os.rename(temp_path, path)
     data = file_schema.load(req_data)
     file = FileModel(data)
     file.save()

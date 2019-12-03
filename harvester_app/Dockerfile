@@ -1,6 +1,6 @@
 FROM python:3.7
-RUN mkdir "./downloads"
 COPY . /app
+RUN mkdir "app/downloads"
 WORKDIR /app
 RUN pip install pipenv
 COPY Pipfile* /tmp/
