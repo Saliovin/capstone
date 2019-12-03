@@ -1,5 +1,7 @@
 FROM python:3.7
-ADD . /app
+RUN mkdir "./downloads"
+RUN mkdir "./temp"
+COPY . /app
 WORKDIR /app
 RUN pip install pipenv gunicorn
 COPY Pipfile* /tmp/
