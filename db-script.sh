@@ -1,7 +1,7 @@
 #!/bin/bash
-mkdir -p ./data/api
-mkdir -p ./data/app
-mkdir -p ./data/db
+mkdir -p "./data/api"
+mkdir -p "./data/app"
+mkdir -p "./data/db"
 docker network create docker-net
 docker pull postgres
 docker run --rm --name pg-docker --network docker-net -e POSTGRES_PASSWORD=docker -e POSTGRES_DB=harvester_api -d postgres -v ./data/db:/var/lib/postgresql/data postgres
