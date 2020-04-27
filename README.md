@@ -22,3 +22,4 @@ Clone the ```unit_testing``` brach of the repository to use for testing
 Start a local postgres server with a password of ```docker```. Try using PgAdmin4
 
 Run ```pytest --cov=. test/``` inside ```capstone/harvester_app/```
+s
